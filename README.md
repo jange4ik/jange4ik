@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![HackerRank Profile](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/jange4ik)
+[![CodeWars Profile](https://www.codewars.com/users/jange4ik/badges/small)](https://www.codewars.com/users/jange4ik)
 <!--
 **jange4ik/jange4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
