@@ -19,3 +19,4 @@ jobs:
           SHOW_TIMEZONE: true
           SHOW_EDITORS: true
           SHOW_SHORT_INFO: false
+          SHOW_PROJECTS: true
