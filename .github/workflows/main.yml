@@ -19,3 +19,4 @@ jobs:
           SHOW_EDITORS: true
           SHOW_SHORT_INFO: false
           SHOW_PROJECTS: true
+          SHOW_LOC_CHART: False
