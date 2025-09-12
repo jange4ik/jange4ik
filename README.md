@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **I'm an Early 🐤** 
 
@@ -32,21 +32,16 @@ Sunday                   23 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Rust                     26 mins             █████████████████████░░░░   82.11 % 
-JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-RustRover                26 mins             █████████████████████░░░░   82.11 % 
-WebStorm                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rctest                   26 mins             ████████████████████░░░░░   81.02 % 
-LightEditProject         5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-snake-ratatui            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
