@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -32,16 +32,16 @@ Sunday                   23 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-C++                      28 mins             █████████████████████████   100.00 % 
+C++                      1 hr 11 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            28 mins             █████████████████████████   100.00 % 
+Visual Studio            1 hr 11 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ConsoleApplication1      28 mins             █████████████████████████   100.00 % 
+ConsoleApplication1      1 hr 11 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
