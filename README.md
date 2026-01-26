@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -32,16 +32,21 @@ Sunday                   23 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      4 hrs 6 mins        ████████████████████████░   96.75 % 
+CMake                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    4 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+graphic                  3 hrs 41 mins       ██████████████████████░░░   86.87 % 
+untitled_uch             32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+notepadpp                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
