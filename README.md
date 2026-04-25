@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -32,13 +32,15 @@ Sunday                   13 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Java                     19 mins             █████████████████████████   100.00 % 
+Java                     18 mins             █████████████████████████   98.55 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
 IntelliJ IDEA            19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-javauntitiled            19 mins             █████████████████████████   100.00 % 
+javauntitiled            16 mins             ██████████████████████░░░   88.41 % 
+untitledjava             2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 
 💻 Operating System: 
 Linux                    19 mins             █████████████████████████   100.00 % 
