@@ -3,45 +3,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-🌆 Daytime                45 commits          ██████████████░░░░░░░░░░░   56.25 % 
-🌃 Evening                29 commits          █████████░░░░░░░░░░░░░░░░   36.25 % 
-🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   24 commits          ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Tuesday                  8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Thursday                 5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Friday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Saturday                 13 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Sunday                   13 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Yekaterinburg
-
-💬 Programming Languages: 
-Java                     14 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-IntelliJ IDEA            14 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-untitledjava             14 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    14 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
