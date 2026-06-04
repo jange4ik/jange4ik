@@ -1,50 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-🌆 Daytime                60 commits          ████████████░░░░░░░░░░░░░   47.62 % 
-🌃 Evening                52 commits          ██████████░░░░░░░░░░░░░░░   41.27 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   24 commits          █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Tuesday                  8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Wednesday                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Thursday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Friday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Saturday                 42 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Sunday                   24 commits          █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Yekaterinburg
-
-💬 Programming Languages: 
-Java                     33 mins             █████████████████████████   99.85 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-
-🔥 Editors: 
-IntelliJ IDEA            33 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-untitledjava             23 mins             █████████████████░░░░░░░░   68.29 % 
-messenger                10 mins             ████████░░░░░░░░░░░░░░░░░   31.71 % 
-
-💻 Operating System: 
-Linux                    33 mins             █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in JavaScript** 
 
