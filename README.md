@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -32,19 +32,19 @@ Sunday                   24 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Java                     40 mins             ████████████████████████░   97.22 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Java                     52 mins             ████████████████████████░   97.86 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 Editors: 
-IntelliJ IDEA            41 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            54 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-untitledjava             41 mins             █████████████████████████   99.44 % 
-javauntitiled            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+untitledjava             53 mins             █████████████████████████   99.57 % 
+javauntitiled            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Linux                    41 mins             █████████████████████████   100.00 % 
+Linux                    54 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
