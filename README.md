@@ -32,15 +32,15 @@ Sunday                   24 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Java                     52 mins             ████████████████████████░   97.86 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Java                     53 mins             ████████████████████████░   97.61 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
 IntelliJ IDEA            54 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-untitledjava             53 mins             █████████████████████████   99.57 % 
+untitledjava             54 mins             █████████████████████████   99.57 % 
 javauntitiled            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
