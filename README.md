@@ -1,28 +1,28 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-🌆 Daytime                49 commits          ██████████████░░░░░░░░░░░   54.44 % 
-🌃 Evening                35 commits          ██████████░░░░░░░░░░░░░░░   38.89 % 
-🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+🌞 Morning                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+🌆 Daytime                58 commits          ████████████░░░░░░░░░░░░░   47.54 % 
+🌃 Evening                50 commits          ██████████░░░░░░░░░░░░░░░   40.98 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   23 commits          ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-Tuesday                  8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Wednesday                12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Friday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Saturday                 24 commits          ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Sunday                   13 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Monday                   23 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Tuesday                  8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Wednesday                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Thursday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Saturday                 42 commits          █████████░░░░░░░░░░░░░░░░   34.43 % 
+Sunday                   24 commits          █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
 ```
 
 
@@ -32,19 +32,23 @@ Sunday                   13 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Java                     53 mins             ████████████████████████░   97.61 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Java                     2 hrs 9 mins        ████████████████████░░░░░   79.42 % 
+JSON                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Groovy                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Gradle                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-IntelliJ IDEA            54 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-untitledjava             54 mins             █████████████████████████   99.57 % 
-javauntitiled            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+modid                    2 hrs 23 mins       ██████████████████████░░░   87.49 % 
+untitledjava             12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+mymod                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 💻 Operating System: 
-Linux                    54 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
