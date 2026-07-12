@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -32,24 +32,24 @@ Sunday                   13 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Java                     5 hrs 53 mins       █████████████████████░░░░   84.88 % 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Groovy                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Gradle                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Java                     6 hrs 29 mins       ██████████████████████░░░   86.08 % 
+JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Groovy                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Gradle                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 56 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            7 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-modid                    2 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   37.94 % 
-testing                  2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.81 % 
-prophunt                 1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   26.96 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-mymod                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+testing                  2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
+modid                    2 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.93 % 
+prophunt                 1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+mymod                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 💻 Operating System: 
-Linux                    6 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
