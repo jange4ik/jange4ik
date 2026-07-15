@@ -32,24 +32,24 @@ Sunday                   24 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Java                     8 hrs 12 mins       ██████████████████████░░░   87.80 % 
-JSON                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Groovy                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Gradle                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Java                     6 hrs 17 mins       ███████████████████████░░   91.57 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Gradle                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Groovy                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 20 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            6 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-testing                  4 hrs 34 mins       ████████████░░░░░░░░░░░░░   48.90 % 
-modid                    2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-prophunt                 1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-mymod                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+testing                  4 hrs 36 mins       █████████████████░░░░░░░░   67.14 % 
+prophunt                 1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+modid                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+testing-template-26.2    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Linux                    9 hrs 20 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
