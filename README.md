@@ -8,21 +8,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-🌆 Daytime                52 commits          ████████████░░░░░░░░░░░░░   48.15 % 
-🌃 Evening                42 commits          ██████████░░░░░░░░░░░░░░░   38.89 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+🌆 Daytime                43 commits          ██████████████░░░░░░░░░░░   56.58 % 
+🌃 Evening                27 commits          █████████░░░░░░░░░░░░░░░░   35.53 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   23 commits          █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Tuesday                  8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Wednesday                12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Saturday                 31 commits          ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-Sunday                   24 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Monday                   23 commits          ████████░░░░░░░░░░░░░░░░░   30.26 % 
+Tuesday                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Friday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Saturday                 13 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Sunday                   13 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
 ```
 
 
@@ -32,24 +32,21 @@ Sunday                   24 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Java                     6 hrs 17 mins       ███████████████████████░░   91.57 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Gradle                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Groovy                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Java                     3 hrs 8 mins        ████████████████████████░   97.21 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 51 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-testing                  4 hrs 36 mins       █████████████████░░░░░░░░   67.14 % 
-prophunt                 1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-modid                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-testing-template-26.2    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+testing                  3 hrs 9 mins        ████████████████████████░   97.84 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 💻 Operating System: 
-Linux                    6 hrs 51 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
