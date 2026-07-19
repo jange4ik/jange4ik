@@ -32,21 +32,21 @@ Sunday                   24 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Java                     2 hrs 18 mins       ████████████████████████░   96.25 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Java                     1 hr 42 mins        ████████████████████████░   95.01 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 24 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 48 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-testing                  2 hrs 21 mins       █████████████████████████   98.34 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+testing                  1 hr 47 mins        █████████████████████████   99.47 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Operating System: 
-Linux                    2 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
