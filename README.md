@@ -32,21 +32,16 @@ Sunday                   13 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Java                     1 hr 42 mins        ████████████████████████░   95.01 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-testing                  1 hr 47 mins        █████████████████████████   99.47 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
