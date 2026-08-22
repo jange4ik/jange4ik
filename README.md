@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2019%20mins-blue?style=flat)
 
@@ -34,16 +34,21 @@ Sunday                   24 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Gradle                   7 mins              ██████████████░░░░░░░░░░░   57.30 % 
+Markdown                 5 mins              ██████████░░░░░░░░░░░░░░░   39.01 % 
+Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+testnf-template-26.2     13 mins             ████████████████████████░   97.77 % 
+testing                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
