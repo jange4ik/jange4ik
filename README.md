@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2019%20mins-blue?style=flat)
 
@@ -34,21 +34,21 @@ Sunday                   24 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Gradle                   7 mins              ██████████████░░░░░░░░░░░   57.30 % 
-Markdown                 5 mins              ██████████░░░░░░░░░░░░░░░   39.01 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Gradle                   7 mins              ███████████░░░░░░░░░░░░░░   43.38 % 
+Markdown                 5 mins              ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+Java                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-IntelliJ IDEA            13 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-testnf-template-26.2     13 mins             ████████████████████████░   97.77 % 
-testing                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+testnf-template-26.2     17 mins             █████████████████████████   98.31 % 
+testing                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.00 % 
+Linux                    18 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
