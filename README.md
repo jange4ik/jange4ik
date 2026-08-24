@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2030%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2019%20mins-blue?style=flat)
 
@@ -10,21 +10,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-🌆 Daytime                58 commits          ████████████░░░░░░░░░░░░░   47.54 % 
-🌃 Evening                50 commits          ██████████░░░░░░░░░░░░░░░   40.98 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+🌆 Daytime                43 commits          ██████████████░░░░░░░░░░░   56.58 % 
+🌃 Evening                27 commits          █████████░░░░░░░░░░░░░░░░   35.53 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   23 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Tuesday                  8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Wednesday                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Thursday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Saturday                 42 commits          █████████░░░░░░░░░░░░░░░░   34.43 % 
-Sunday                   24 commits          █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Monday                   23 commits          ████████░░░░░░░░░░░░░░░░░   30.26 % 
+Tuesday                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Friday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Saturday                 13 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Sunday                   13 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
 ```
 
 
@@ -34,21 +34,22 @@ Sunday                   24 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Gradle                   7 mins              ███████████░░░░░░░░░░░░░░   43.38 % 
-Markdown                 5 mins              ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-Java                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Java                     12 mins             ████████████░░░░░░░░░░░░░   48.84 % 
+Gradle                   7 mins              ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+Markdown                 5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-IntelliJ IDEA            18 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            26 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-testnf-template-26.2     17 mins             █████████████████████████   98.31 % 
-testing                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+testnf-template-26.2     26 mins             █████████████████████████   98.83 % 
+testing                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    18 mins             █████████████████████████   100.00 % 
+Linux                    26 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
