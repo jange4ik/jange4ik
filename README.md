@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2019%20mins-blue?style=flat)
 
@@ -34,22 +34,22 @@ Sunday                   24 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Java                     12 mins             ████████████░░░░░░░░░░░░░   48.81 % 
-Gradle                   7 mins              ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-Markdown                 5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Java                     1 hr 36 mins        ███████████████████░░░░░░   74.43 % 
+JSON                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Gradle                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-IntelliJ IDEA            26 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-testnf-template-26.2     26 mins             █████████████████████████   98.83 % 
-testing                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+testnf-template-26.2     2 hrs               ███████████████████████░░   93.09 % 
+Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+testing                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Linux                    26 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
