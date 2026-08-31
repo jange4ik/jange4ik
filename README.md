@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2019%20mins-blue?style=flat)
 
@@ -34,21 +34,21 @@ Sunday                   24 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Java                     3 hrs 9 mins        ██████████████████████░░░   88.56 % 
-JSON                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Java                     4 hrs 16 mins       ██████████████████████░░░   86.74 % 
+JSON                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 33 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-testnf-template-26.2     3 hrs 17 mins       ███████████████████████░░   92.13 % 
-Unknown Project          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+testnf-template-26.2     4 hrs 25 mins       ██████████████████████░░░   89.82 % 
+Unknown Project          30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 
 💻 Operating System: 
-Linux                    3 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
