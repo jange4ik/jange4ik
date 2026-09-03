@@ -34,20 +34,20 @@ Sunday                   13 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Java                     2 hrs 51 mins       ██████████████████████░░░   89.72 % 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Java                     2 hrs 23 mins       ██████████████████████░░░   87.92 % 
+JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 11 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-testnf-template-26.2     2 hrs 49 mins       ██████████████████████░░░   88.79 % 
-Unknown Project          21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+testnf-template-26.2     2 hrs 23 mins       ██████████████████████░░░   88.40 % 
+Unknown Project          18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
 
 💻 Operating System: 
-Linux                    3 hrs 11 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
