@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2019%20mins-blue?style=flat)
 
@@ -10,21 +10,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-🌆 Daytime                43 commits          ██████████████░░░░░░░░░░░   56.58 % 
-🌃 Evening                27 commits          █████████░░░░░░░░░░░░░░░░   35.53 % 
-🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+🌞 Morning                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+🌆 Daytime                58 commits          ████████████░░░░░░░░░░░░░   47.54 % 
+🌃 Evening                50 commits          ██████████░░░░░░░░░░░░░░░   40.98 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   23 commits          ████████░░░░░░░░░░░░░░░░░   30.26 % 
-Tuesday                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Friday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Saturday                 13 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Sunday                   13 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Monday                   23 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Tuesday                  8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Wednesday                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Thursday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Saturday                 42 commits          █████████░░░░░░░░░░░░░░░░   34.43 % 
+Sunday                   24 commits          █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
 ```
 
 
@@ -34,25 +34,25 @@ Sunday                   13 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-C++                      2 hrs 47 mins       █████████████████░░░░░░░░   69.38 % 
-Java                     49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-GitIgnore file           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+C++                      3 hrs 44 mins       ███████████████████░░░░░░   75.24 % 
+Java                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+GitIgnore file           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔥 Editors: 
-CLion                    2 hrs 47 mins       █████████████████░░░░░░░░   69.48 % 
-IntelliJ IDEA            1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   30.52 % 
+CLion                    3 hrs 44 mins       ███████████████████░░░░░░   75.33 % 
+IntelliJ IDEA            1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
 
 🐱‍💻 Projects: 
-labs                     2 hrs 47 mins       █████████████████░░░░░░░░   69.48 % 
-javafxxx                 48 mins             █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-untitledjava             17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-testnf-template-26.2     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+labs                     3 hrs 44 mins       ███████████████████░░░░░░   75.33 % 
+javafxxx                 48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+untitledjava             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+testnf-template-26.2     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Linux                    4 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    4 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
