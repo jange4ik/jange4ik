@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2019%20mins-blue?style=flat)
 
@@ -34,22 +34,18 @@ Sunday                   24 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-C++                      2 hrs 36 mins       █████████████████████████   99.69 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+C++                      2 hrs 23 mins       █████████████████████████   99.87 % 
 C/C                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-CLion                    2 hrs 37 mins       █████████████████████████   99.91 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+CLion                    2 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-labs                     2 hrs 37 mins       █████████████████████████   99.91 % 
-javafxxx                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+labs                     2 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
