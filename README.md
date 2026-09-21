@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%201%20min-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2019%20mins-blue?style=flat)
 
@@ -10,21 +10,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-🌆 Daytime                58 commits          ████████████░░░░░░░░░░░░░   47.54 % 
-🌃 Evening                50 commits          ██████████░░░░░░░░░░░░░░░   40.98 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+🌆 Daytime                43 commits          ██████████████░░░░░░░░░░░   56.58 % 
+🌃 Evening                27 commits          █████████░░░░░░░░░░░░░░░░   35.53 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   23 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Tuesday                  8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Wednesday                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Thursday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Saturday                 42 commits          █████████░░░░░░░░░░░░░░░░   34.43 % 
-Sunday                   24 commits          █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Monday                   23 commits          ████████░░░░░░░░░░░░░░░░░   30.26 % 
+Tuesday                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Friday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Saturday                 13 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Sunday                   13 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
 ```
 
 
@@ -34,18 +34,18 @@ Sunday                   24 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-C++                      2 hrs 23 mins       █████████████████████████   99.87 % 
-C/C                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+C++                      1 hr 33 mins        █████████████████████████   99.63 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+C/C                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-CLion                    2 hrs 23 mins       █████████████████████████   100.00 % 
+CLion                    1 hr 33 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-labs                     2 hrs 23 mins       █████████████████████████   100.00 % 
+labs                     1 hr 33 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
