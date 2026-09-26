@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2019%20mins-blue?style=flat)
 
@@ -34,22 +34,22 @@ Sunday                   24 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-C++                      1 hr 5 mins         █████████████████████████   98.84 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+C++                      1 hr 11 mins        █████████████████████████   98.95 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-CLion                    1 hr 5 mins         █████████████████████████   99.28 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+CLion                    1 hr 12 mins        █████████████████████████   99.35 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🐱‍💻 Projects: 
-labs                     1 hr 5 mins         █████████████████████████   99.28 % 
-javafxxx                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+labs                     1 hr 12 mins        █████████████████████████   99.35 % 
+javafxxx                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 💻 Operating System: 
-Linux                    1 hr 6 mins         █████████████████████████   100.00 % 
+Linux                    1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
