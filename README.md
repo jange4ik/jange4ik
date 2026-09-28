@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2019%20mins-blue?style=flat)
 
@@ -34,22 +34,25 @@ Sunday                   24 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-C++                      2 hrs 1 min         █████████████████████████   99.35 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+C++                      2 hrs 2 mins        ██████████████░░░░░░░░░░░   56.04 % 
+Java                     1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   32.44 % 
+XML                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Java module              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-CLion                    2 hrs 2 mins        █████████████████████████   99.61 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+CLion                    2 hrs 2 mins        ██████████████░░░░░░░░░░░   56.09 % 
+IntelliJ IDEA            1 hr 36 mins        ███████████░░░░░░░░░░░░░░   43.91 % 
 
 🐱‍💻 Projects: 
-labs                     2 hrs 2 mins        █████████████████████████   99.61 % 
-javafxxx                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+labs                     2 hrs 2 mins        ██████████████░░░░░░░░░░░   56.09 % 
+untitledjava             1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   30.35 % 
+javafxxl                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+javafxxx                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Linux                    2 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
