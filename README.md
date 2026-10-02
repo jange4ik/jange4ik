@@ -34,25 +34,25 @@ Sunday                   13 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-C++                      2 hrs 43 mins       ████████████████░░░░░░░░░   63.91 % 
-XML                      1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-Java                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+C++                      2 hrs 36 mins       ████████████████░░░░░░░░░   62.96 % 
+XML                      1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+Java                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-CLion                    2 hrs 43 mins       ████████████████░░░░░░░░░   63.93 % 
-IntelliJ IDEA            1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   36.07 % 
+CLion                    2 hrs 36 mins       ████████████████░░░░░░░░░   62.98 % 
+IntelliJ IDEA            1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   37.02 % 
 
 🐱‍💻 Projects: 
-labs                     2 hrs 43 mins       ████████████████░░░░░░░░░   63.93 % 
-javafxxl                 1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-Unknown Project          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-javafxxx                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+labs                     2 hrs 36 mins       ████████████████░░░░░░░░░   62.98 % 
+javafxxl                 1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+Unknown Project          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+javafxxx                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 untitledjava             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Linux                    4 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
