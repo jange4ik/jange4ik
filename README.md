@@ -34,17 +34,17 @@ Sunday                   24 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-C++                      1 hr 40 mins        █████████████████████████   99.73 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+C++                      1 hr 25 mins        █████████████████████████   99.68 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-CLion                    1 hr 41 mins        █████████████████████████   100.00 % 
+CLion                    1 hr 25 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-labs                     1 hr 41 mins        █████████████████████████   100.00 % 
+labs                     1 hr 25 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 41 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
